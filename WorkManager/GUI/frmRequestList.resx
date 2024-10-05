@@ -173,7 +173,7 @@
   <data name="btnConfirm.ImageOptions.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        DwAACw8BkvkDpQAABKVJREFUaEPtWV9oW1UcbhmiKAiy6ZN/QEUQ/IOIgi9DEB98EESdD1vTpA7inC3T
+        DAAACwwBP0AiyAAABKVJREFUaEPtWV9oW1UcbhmiKAiy6ZN/QEUQ/IOIgi9DEB98EESdD1vTpA7inC3T
         Tmu1NzlJQ5v03mxSRtnU6aS6qdkebLWUacesm7bJTTbBB0GZ6IaIsJclLV3TJj+/c3tuTe49SZvkpmsh
         H3zk3nNPz+/7zjm/e885bWqggQYaWBN4GbvR7Y/u8Pi0Ix6fOgUmcT3uVtSQ1/v+daLaegY1u/3aTo+i
         /gvhVEi3T826lehzouL6xbZtsU3o8U+sBjaUCQ6IjWx4E61MfQh5kF+3JigW20Rxdh/p7EWwi5KBECVZ
@@ -360,7 +360,4 @@
         vX1EoBh4hE0Qi4nvEd8nfuCBH87jRx74sRv8mX+LH8WPEh7+L4Dmv8l+R4zLEvv3AAAAAElFTkSuQmCC
 </value>
   </data>
-  <metadata name="alertControl.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
 </root>

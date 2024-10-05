@@ -13,7 +13,10 @@
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
-    <PublishUrl>publish\</PublishUrl>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <PublishUrl>X:\IT-004-Code\09. Hiep\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
     <UpdateEnabled>false</UpdateEnabled>
@@ -23,13 +26,11 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationRevision>1</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
-    <IsWebBootstrapper>false</IsWebBootstrapper>
     <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
     <BootstrapperEnabled>true</BootstrapperEnabled>
-    <NuGetPackageImportStamp>
-    </NuGetPackageImportStamp>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -49,6 +50,18 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>45288ABA1011184C27D2208E098E6147787F8A18</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>WorkManager_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="DevExpress.Data.Desktop.v23.2, Version=23.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
@@ -121,10 +134,23 @@
     <Compile Include="Migrations\202410030700566_Init.Designer.cs">
       <DependentUpon>202410030700566_Init.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202410050604344_UP.cs" />
+    <Compile Include="Migrations\202410050604344_UP.Designer.cs">
+      <DependentUpon>202410050604344_UP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202410050611306_Delete.cs" />
+    <Compile Include="Migrations\202410050611306_Delete.Designer.cs">
+      <DependentUpon>202410050611306_Delete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202410050614102_Add.cs" />
+    <Compile Include="Migrations\202410050614102_Add.Designer.cs">
+      <DependentUpon>202410050614102_Add.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Model\Department.cs" />
     <Compile Include="Models\Model\Factory.cs" />
     <Compile Include="Data\WorkDbContext.cs" />
+    <Compile Include="Models\Model\NewRequest.cs" />
     <Compile Include="Models\Model\Request.cs" />
     <Compile Include="Models\Model\User.cs" />
     <Compile Include="Models\Model\UserRole.cs" />
@@ -132,16 +158,19 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repository\Implementation\DepartmentRepository.cs" />
     <Compile Include="Repository\Implementation\FactoryRepository.cs" />
+    <Compile Include="Repository\Implementation\NewRequestRepository.cs" />
     <Compile Include="Repository\Implementation\RequestRepository.cs" />
     <Compile Include="Repository\Implementation\UserRepository.cs" />
     <Compile Include="Repository\Implementation\UserRoleRepository.cs" />
     <Compile Include="Repository\Interface\IDepartmentRepository.cs" />
     <Compile Include="Repository\Interface\IFactoryRepository.cs" />
+    <Compile Include="Repository\Interface\INewRequestRepository.cs" />
     <Compile Include="Repository\Interface\IRequestRepository.cs" />
     <Compile Include="Repository\Interface\IUserRepository.cs" />
     <Compile Include="Repository\Interface\IUserRoleRepository.cs" />
     <Compile Include="Services\DepartmentServices.cs" />
     <Compile Include="Services\FactoryServices.cs" />
+    <Compile Include="Services\NewRequestServices.cs" />
     <Compile Include="Services\RequestServices.cs" />
     <Compile Include="Services\UserRoleServices.cs" />
     <Compile Include="Services\UserServices.cs" />
@@ -159,6 +188,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202410030700566_Init.resx">
       <DependentUpon>202410030700566_Init.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202410050604344_UP.resx">
+      <DependentUpon>202410050604344_UP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202410050611306_Delete.resx">
+      <DependentUpon>202410050611306_Delete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202410050614102_Add.resx">
+      <DependentUpon>202410050614102_Add.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\licenses.licx" />
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -180,6 +218,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="WorkManager_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

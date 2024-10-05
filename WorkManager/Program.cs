@@ -31,6 +31,7 @@ namespace WorkManager
             container.RegisterType<IFactoryRepository, FactoryRepository>();
             container.RegisterType<IUserRepository, UserRepository>();
             container.RegisterType<IUserRoleRepository, UserRoleRepository>();
+            container.RegisterType<INewRequestRepository, NewRequestRepository>();
 
             //Đăng ký Service
             container.RegisterType<DepartmentServices>();
@@ -38,6 +39,7 @@ namespace WorkManager
             container.RegisterType<RequestServices>();
             container.RegisterType<UserServices>();
             container.RegisterType<UserRoleServices>();
+            container.RegisterType<NewRequestServices>();
 
             //Đăng ký Form
             container.RegisterType<frmMain>();
@@ -46,7 +48,6 @@ namespace WorkManager
             container.RegisterType<frmLogin>();
 
             var mainForm = container.Resolve<frmLogin>();
-
 
             Application.Run(mainForm);
         }

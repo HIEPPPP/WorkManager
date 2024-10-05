@@ -17,6 +17,7 @@ namespace WorkManager.Models.Model
         public virtual DbSet<Request> Requests { get; set; }
         public virtual DbSet<User> Users { get; set; }
         public virtual DbSet<UserRole> UserRoles { get; set; }
+        public virtual DbSet<NewRequest> NewRequests { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {

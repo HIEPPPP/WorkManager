@@ -56,3 +56,10 @@ G:\IT-03-Code\WorkManager\WorkManager\obj\Debug\WorkManager.exe
 G:\IT-03-Code\WorkManager\WorkManager\obj\Debug\WorkManager.pdb
 G:\IT-03-Code\WorkManager\WorkManager\obj\Debug\WorkManager.Migrations.Init.resources
 G:\IT-03-Code\WorkManager\WorkManager\obj\Debug\WorkManager.GUI.frmLogin.resources
+G:\IT-03-Code\WorkManager\WorkManager\obj\Debug\WorkManager.Migrations.UP.resources
+G:\IT-03-Code\WorkManager\WorkManager\obj\Debug\WorkManager.Migrations.Delete.resources
+G:\IT-03-Code\WorkManager\WorkManager\obj\Debug\WorkManager.Migrations.Add.resources
+G:\IT-03-Code\WorkManager\WorkManager\bin\Debug\WorkManager.exe.manifest
+G:\IT-03-Code\WorkManager\WorkManager\bin\Debug\WorkManager.application
+G:\IT-03-Code\WorkManager\WorkManager\obj\Debug\WorkManager.exe.manifest
+G:\IT-03-Code\WorkManager\WorkManager\obj\Debug\WorkManager.application

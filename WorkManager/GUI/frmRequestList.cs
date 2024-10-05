@@ -38,14 +38,13 @@ namespace WorkManager.GUI
 
         private void gcRequest_Load(object sender, EventArgs e)
         {
-            LoadData();
+           LoadData();
         }
 
         private void btnAdd_Click(object sender, EventArgs e)
         {
             var frmRequestAdd = container.Resolve<frmRequestAdd>();
             frmRequestAdd.FormClosed += new FormClosedEventHandler(gcRequest_Load);
-
             frmRequestAdd.ShowDialog();
         }
 

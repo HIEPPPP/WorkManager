@@ -21,15 +21,17 @@ namespace WorkManager.GUI
         private readonly FactoryServices factoryServices;
         private readonly UserServices userServices;
         private readonly RequestServices requestServices;
+        private readonly NewRequestServices newRequestServices;        
 
-        public frmRequestAdd(DepartmentServices departmentServices, FactoryServices factoryServices, UserServices userServices, RequestServices requestServices)
+        public frmRequestAdd(DepartmentServices departmentServices, FactoryServices factoryServices, UserServices userServices, RequestServices requestServices, NewRequestServices newRequestServices)
         {
             InitializeComponent();
             this.departmentServices = departmentServices;
             this.factoryServices = factoryServices;
             this.userServices = userServices;
-            this.requestServices = requestServices;            
-        }
+            this.requestServices = requestServices;
+            this.newRequestServices = newRequestServices;
+        }        
 
         private void btnSave_Click(object sender, EventArgs e)
         {
@@ -47,8 +49,17 @@ namespace WorkManager.GUI
                     Status = "Chưa hỗ trợ",
                 };
 
+                var newRequest = new NewRequest
+                {
+                    RequestType = cbRequestType.Text.ToString(),
+                    Department = cbDepartment.Text.ToString(),
+                    CreatedDate = DateTime.Now,
+                    IsHandled = false,
+                };
+
                 requestServices.CreateRequest(request);
-                MessageBox.Show("Tạo yêu cầu thành công!");
+                newRequestServices.CreateNewRequest(newRequest);
+                MessageBox.Show("Yêu cầu thành công!");
                 this.Close();
             }
             catch (Exception ex)

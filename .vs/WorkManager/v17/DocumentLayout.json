@@ -3,32 +3,88 @@
   "WorkspaceRootPath": "G:\\IT-03-Code\\WorkManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|G:\\IT-03-Code\\WorkManager\\workmanager\\gui\\frmrequestlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\gui\\frmrequestlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|G:\\IT-03-Code\\WorkManager\\workmanager\\gui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\gui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|G:\\IT-03-Code\\WorkManager\\workmanager\\gui\\frmrequestadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\gui\\frmrequestadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|g:\\it-03-code\\workmanager\\workmanager\\repository\\implementation\\newrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\repository\\implementation\\newrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|G:\\IT-03-Code\\WorkManager\\workmanager\\gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|G:\\IT-03-Code\\WorkManager\\workmanager\\repository\\implementation\\factoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\repository\\implementation\\factoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|G:\\IT-03-Code\\WorkManager\\workmanager\\gui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\gui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|g:\\it-03-code\\workmanager\\workmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|G:\\IT-03-Code\\WorkManager\\workmanager\\gui\\frmrequestadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\gui\\frmrequestadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|G:\\IT-03-Code\\WorkManager\\workmanager\\gui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\gui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|G:\\IT-03-Code\\WorkManager\\workmanager\\gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|g:\\it-03-code\\workmanager\\workmanager\\gui\\frmrequestlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|G:\\IT-03-Code\\WorkManager\\workmanager\\gui\\frmrequestlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\gui\\frmrequestlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|G:\\IT-03-Code\\WorkManager\\workmanager\\gui\\frmrequestadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\gui\\frmrequestadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|G:\\IT-03-Code\\WorkManager\\workmanager\\repository\\interface\\inewrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\repository\\interface\\inewrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|g:\\it-03-code\\workmanager\\workmanager\\migrations\\202410050614102_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\migrations\\202410050614102_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|G:\\IT-03-Code\\WorkManager\\workmanager\\data\\workdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\data\\workdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|g:\\it-03-code\\workmanager\\workmanager\\migrations\\202410050611306_delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\migrations\\202410050611306_delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|g:\\it-03-code\\workmanager\\workmanager\\migrations\\202410050604344_up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\migrations\\202410050604344_up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|G:\\IT-03-Code\\WorkManager\\workmanager\\migrations\\202410030700566_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\migrations\\202410030700566_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|G:\\IT-03-Code\\WorkManager\\workmanager\\models\\model\\newrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\models\\model\\newrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|G:\\IT-03-Code\\WorkManager\\workmanager\\models\\model\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\models\\model\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|G:\\IT-03-Code\\WorkManager\\workmanager\\gui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\gui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|G:\\IT-03-Code\\WorkManager\\workmanager\\gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|G:\\IT-03-Code\\WorkManager\\workmanager\\gui\\frmrequestlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\gui\\frmrequestlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|G:\\IT-03-Code\\WorkManager\\workmanager\\models\\model\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\models\\model\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|G:\\IT-03-Code\\WorkManager\\workmanager\\services\\newrequestservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\services\\newrequestservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|G:\\IT-03-Code\\WorkManager\\workmanager\\repository\\implementation\\requestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,14 +97,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|G:\\IT-03-Code\\WorkManager\\workmanager\\services\\requestservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\services\\requestservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|G:\\IT-03-Code\\WorkManager\\workmanager\\models\\model\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\models\\model\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|G:\\IT-03-Code\\WorkManager\\workmanager\\gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|G:\\IT-03-Code\\WorkManager\\workmanager\\repository\\interface\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -65,10 +113,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|G:\\IT-03-Code\\WorkManager\\workmanager\\repository\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\repository\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|G:\\IT-03-Code\\WorkManager\\workmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|G:\\IT-03-Code\\WorkManager\\workmanager\\repository\\implementation\\userrolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -99,16 +143,8 @@
       "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\repository\\implementation\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|G:\\IT-03-Code\\WorkManager\\workmanager\\migrations\\202410030700566_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\migrations\\202410030700566_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|G:\\IT-03-Code\\WorkManager\\workmanager\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|G:\\IT-03-Code\\WorkManager\\workmanager\\data\\workdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\data\\workdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|G:\\IT-03-Code\\WorkManager\\workmanager\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -123,10 +159,6 @@
       "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\models\\model\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|G:\\IT-03-Code\\WorkManager\\workmanager\\models\\model\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\models\\model\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|G:\\IT-03-Code\\WorkManager\\workmanager\\models\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\models\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -137,10 +169,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|G:\\IT-03-Code\\WorkManager\\workmanager\\services\\factoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\services\\factoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|G:\\IT-03-Code\\WorkManager\\workmanager\\repository\\implementation\\factoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|solutionrelative:workmanager\\repository\\implementation\\factoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EAA8F322-565C-4078-938E-EFF727AE568C}|WorkManager\\WorkManager.csproj|G:\\IT-03-Code\\WorkManager\\workmanager\\repository\\interface\\ifactoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -154,31 +182,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmMain.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "frmMain.cs",
               "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\GUI\\frmMain.cs",
               "RelativeDocumentMoniker": "WorkManager\\GUI\\frmMain.cs",
-              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\GUI\\frmMain.cs [Design]",
-              "RelativeToolTip": "WorkManager\\GUI\\frmMain.cs [Design]",
+              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\GUI\\frmMain.cs",
+              "RelativeToolTip": "WorkManager\\GUI\\frmMain.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAUwC8AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T06:11:12.103Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmRequestList.cs [Design]",
-              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\GUI\\frmRequestList.cs",
-              "RelativeDocumentMoniker": "WorkManager\\GUI\\frmRequestList.cs",
-              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\GUI\\frmRequestList.cs [Design]",
-              "RelativeToolTip": "WorkManager\\GUI\\frmRequestList.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T03:52:37.687Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-03T06:11:13.525Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -188,39 +205,53 @@
               "RelativeDocumentMoniker": "WorkManager\\GUI\\frmRequestAdd.cs",
               "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\GUI\\frmRequestAdd.cs",
               "RelativeToolTip": "WorkManager\\GUI\\frmRequestAdd.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T04:19:34.26Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frmMain.cs",
-              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\GUI\\frmMain.cs",
-              "RelativeDocumentMoniker": "WorkManager\\GUI\\frmMain.cs",
-              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\GUI\\frmMain.cs",
-              "RelativeToolTip": "WorkManager\\GUI\\frmMain.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBcAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Program.cs",
+              "RelativeDocumentMoniker": "WorkManager\\Program.cs",
+              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Program.cs",
+              "RelativeToolTip": "WorkManager\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T06:11:13.525Z",
+              "WhenOpened": "2024-10-05T06:11:17.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "frmLogin.cs [Design]",
-              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\GUI\\frmLogin.cs",
-              "RelativeDocumentMoniker": "WorkManager\\GUI\\frmLogin.cs",
-              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\GUI\\frmLogin.cs [Design]",
-              "RelativeToolTip": "WorkManager\\GUI\\frmLogin.cs [Design]",
+              "Title": "FactoryRepository.cs",
+              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Implementation\\FactoryRepository.cs",
+              "RelativeDocumentMoniker": "WorkManager\\Repository\\Implementation\\FactoryRepository.cs",
+              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Implementation\\FactoryRepository.cs",
+              "RelativeToolTip": "WorkManager\\Repository\\Implementation\\FactoryRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T08:29:55.912Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-03T04:54:42.044Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "NewRequestRepository.cs",
+              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Implementation\\NewRequestRepository.cs",
+              "RelativeDocumentMoniker": "WorkManager\\Repository\\Implementation\\NewRequestRepository.cs",
+              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Implementation\\NewRequestRepository.cs",
+              "RelativeToolTip": "WorkManager\\Repository\\Implementation\\NewRequestRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T03:53:54.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "frmRequestAdd.cs [Design]",
               "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\GUI\\frmRequestAdd.cs",
               "RelativeDocumentMoniker": "WorkManager\\GUI\\frmRequestAdd.cs",
@@ -238,294 +269,103 @@
               "RelativeDocumentMoniker": "WorkManager\\GUI\\frmRequestList.cs",
               "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\GUI\\frmRequestList.cs",
               "RelativeToolTip": "WorkManager\\GUI\\frmRequestList.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAAwB4AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAC8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T07:13:29.766Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RequestRepository.cs",
-              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Implementation\\RequestRepository.cs",
-              "RelativeDocumentMoniker": "WorkManager\\Repository\\Implementation\\RequestRepository.cs",
-              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Implementation\\RequestRepository.cs",
-              "RelativeToolTip": "WorkManager\\Repository\\Implementation\\RequestRepository.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAA9wDIAAAAxAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "202410050614102_Add.cs",
+              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Migrations\\202410050614102_Add.cs",
+              "RelativeDocumentMoniker": "WorkManager\\Migrations\\202410050614102_Add.cs",
+              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Migrations\\202410050614102_Add.cs",
+              "RelativeToolTip": "WorkManager\\Migrations\\202410050614102_Add.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T03:59:58.667Z",
+              "WhenOpened": "2024-10-05T06:14:15.296Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "IRequestRepository.cs",
-              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Interface\\IRequestRepository.cs",
-              "RelativeDocumentMoniker": "WorkManager\\Repository\\Interface\\IRequestRepository.cs",
-              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Interface\\IRequestRepository.cs",
-              "RelativeToolTip": "WorkManager\\Repository\\Interface\\IRequestRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Title": "INewRequestRepository.cs",
+              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Interface\\INewRequestRepository.cs",
+              "RelativeDocumentMoniker": "WorkManager\\Repository\\Interface\\INewRequestRepository.cs",
+              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Interface\\INewRequestRepository.cs",
+              "RelativeToolTip": "WorkManager\\Repository\\Interface\\INewRequestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T03:58:31.316Z",
+              "WhenOpened": "2024-10-05T03:53:11.466Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RequestServices.cs",
-              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Services\\RequestServices.cs",
-              "RelativeDocumentMoniker": "WorkManager\\Services\\RequestServices.cs",
-              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Services\\RequestServices.cs",
-              "RelativeToolTip": "WorkManager\\Services\\RequestServices.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAtwCUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T04:01:55.564Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "frmLogin.cs",
               "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\GUI\\frmLogin.cs",
               "RelativeDocumentMoniker": "WorkManager\\GUI\\frmLogin.cs",
               "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\GUI\\frmLogin.cs",
               "RelativeToolTip": "WorkManager\\GUI\\frmLogin.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADgAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T08:31:01.954Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IDepartmentRepository.cs",
-              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Interface\\IDepartmentRepository.cs",
-              "RelativeDocumentMoniker": "WorkManager\\Repository\\Interface\\IDepartmentRepository.cs",
-              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Interface\\IDepartmentRepository.cs",
-              "RelativeToolTip": "WorkManager\\Repository\\Interface\\IDepartmentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "202410050611306_Delete.cs",
+              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Migrations\\202410050611306_Delete.cs",
+              "RelativeDocumentMoniker": "WorkManager\\Migrations\\202410050611306_Delete.cs",
+              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Migrations\\202410050611306_Delete.cs",
+              "RelativeToolTip": "WorkManager\\Migrations\\202410050611306_Delete.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T04:52:38.272Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Request.cs",
-              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Models\\Model\\Request.cs",
-              "RelativeDocumentMoniker": "WorkManager\\Models\\Model\\Request.cs",
-              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Models\\Model\\Request.cs",
-              "RelativeToolTip": "WorkManager\\Models\\Model\\Request.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T01:17:44.477Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "frmRequestList.Designer.cs",
-              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\GUI\\frmRequestList.Designer.cs",
-              "RelativeDocumentMoniker": "WorkManager\\GUI\\frmRequestList.Designer.cs",
-              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\GUI\\frmRequestList.Designer.cs",
-              "RelativeToolTip": "WorkManager\\GUI\\frmRequestList.Designer.cs",
-              "ViewState": "AgIAAOYAAAAAAAAAAAAtwPcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T01:13:51.592Z"
+              "WhenOpened": "2024-10-05T06:11:34.111Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "UserServices.cs",
-              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Services\\UserServices.cs",
-              "RelativeDocumentMoniker": "WorkManager\\Services\\UserServices.cs",
-              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Services\\UserServices.cs",
-              "RelativeToolTip": "WorkManager\\Services\\UserServices.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAEwB8AAAAuAAAAAAAAAA==",
+              "Title": "NewRequest.cs",
+              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Models\\Model\\NewRequest.cs",
+              "RelativeDocumentMoniker": "WorkManager\\Models\\Model\\NewRequest.cs",
+              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Models\\Model\\NewRequest.cs",
+              "RelativeToolTip": "WorkManager\\Models\\Model\\NewRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T06:07:04.598Z"
+              "WhenOpened": "2024-10-04T11:35:40.295Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Implementation\\UserRepository.cs",
-              "RelativeDocumentMoniker": "WorkManager\\Repository\\Implementation\\UserRepository.cs",
-              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Implementation\\UserRepository.cs",
-              "RelativeToolTip": "WorkManager\\Repository\\Implementation\\UserRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T06:00:20.263Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Program.cs",
-              "RelativeDocumentMoniker": "WorkManager\\Program.cs",
-              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Program.cs",
-              "RelativeToolTip": "WorkManager\\Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAqwC8AAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T03:52:39.518Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "UserRoleRepository.cs",
-              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Implementation\\UserRoleRepository.cs",
-              "RelativeDocumentMoniker": "WorkManager\\Repository\\Implementation\\UserRoleRepository.cs",
-              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Implementation\\UserRoleRepository.cs",
-              "RelativeToolTip": "WorkManager\\Repository\\Implementation\\UserRoleRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T08:57:10.921Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Interface\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "WorkManager\\Repository\\Interface\\IUserRepository.cs",
-              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Interface\\IUserRepository.cs",
-              "RelativeToolTip": "WorkManager\\Repository\\Interface\\IUserRepository.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAvwBEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T05:58:48.153Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Work_Constants.cs",
-              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Constants\\Work_Constants.cs",
-              "RelativeDocumentMoniker": "WorkManager\\Constants\\Work_Constants.cs",
-              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Constants\\Work_Constants.cs",
-              "RelativeToolTip": "WorkManager\\Constants\\Work_Constants.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T07:57:53.654Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IUserRoleRepository.cs",
-              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Interface\\IUserRoleRepository.cs",
-              "RelativeDocumentMoniker": "WorkManager\\Repository\\Interface\\IUserRoleRepository.cs",
-              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Interface\\IUserRoleRepository.cs",
-              "RelativeToolTip": "WorkManager\\Repository\\Interface\\IUserRoleRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T08:56:00.875Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "UserRoleServices.cs",
-              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Services\\UserRoleServices.cs",
-              "RelativeDocumentMoniker": "WorkManager\\Services\\UserRoleServices.cs",
-              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Services\\UserRoleServices.cs",
-              "RelativeToolTip": "WorkManager\\Services\\UserRoleServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T09:01:56.378Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "DepartmentRepository.cs",
-              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Implementation\\DepartmentRepository.cs",
-              "RelativeDocumentMoniker": "WorkManager\\Repository\\Implementation\\DepartmentRepository.cs",
-              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Implementation\\DepartmentRepository.cs",
-              "RelativeToolTip": "WorkManager\\Repository\\Implementation\\DepartmentRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAjwBIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T04:53:22.331Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "DepartmentServices.cs",
-              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Services\\DepartmentServices.cs",
-              "RelativeDocumentMoniker": "WorkManager\\Services\\DepartmentServices.cs",
-              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Services\\DepartmentServices.cs",
-              "RelativeToolTip": "WorkManager\\Services\\DepartmentServices.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAjwBYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T04:57:23.221Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 10,
               "Title": "WorkDbContext.cs",
               "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Data\\WorkDbContext.cs",
               "RelativeDocumentMoniker": "WorkManager\\Data\\WorkDbContext.cs",
               "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Data\\WorkDbContext.cs",
               "RelativeToolTip": "WorkManager\\Data\\WorkDbContext.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T06:53:00.796Z"
+              "WhenOpened": "2024-10-03T06:53:00.796Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "User.cs",
-              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Models\\Model\\User.cs",
-              "RelativeDocumentMoniker": "WorkManager\\Models\\Model\\User.cs",
-              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Models\\Model\\User.cs",
-              "RelativeToolTip": "WorkManager\\Models\\Model\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "Request.cs",
+              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Models\\Model\\Request.cs",
+              "RelativeDocumentMoniker": "WorkManager\\Models\\Model\\Request.cs",
+              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Models\\Model\\Request.cs",
+              "RelativeToolTip": "WorkManager\\Models\\Model\\Request.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwA4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T06:46:35.512Z"
+              "WhenOpened": "2024-10-04T01:17:44.477Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "UserRole.cs",
-              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Models\\Model\\UserRole.cs",
-              "RelativeDocumentMoniker": "WorkManager\\Models\\Model\\UserRole.cs",
-              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Models\\Model\\UserRole.cs",
-              "RelativeToolTip": "WorkManager\\Models\\Model\\UserRole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T06:46:37.293Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "202410030700566_Init.cs",
-              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Migrations\\202410030700566_Init.cs",
-              "RelativeDocumentMoniker": "WorkManager\\Migrations\\202410030700566_Init.cs",
-              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Migrations\\202410030700566_Init.cs",
-              "RelativeToolTip": "WorkManager\\Migrations\\202410030700566_Init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T07:01:01.837Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "App.config",
-              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\App.config",
-              "RelativeDocumentMoniker": "WorkManager\\App.config",
-              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\App.config",
-              "RelativeToolTip": "WorkManager\\App.config",
-              "ViewState": "AgIAADEAAAAAAAAAAAAAAD4AAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-10-03T06:55:58.3Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Migrations\\Configuration.cs",
-              "RelativeDocumentMoniker": "WorkManager\\Migrations\\Configuration.cs",
-              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Migrations\\Configuration.cs",
-              "RelativeToolTip": "WorkManager\\Migrations\\Configuration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T07:00:40.96Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 19,
               "Title": "Factory.cs",
               "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Models\\Model\\Factory.cs",
               "RelativeDocumentMoniker": "WorkManager\\Models\\Model\\Factory.cs",
@@ -537,7 +377,299 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "202410050604344_UP.cs",
+              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Migrations\\202410050604344_UP.cs",
+              "RelativeDocumentMoniker": "WorkManager\\Migrations\\202410050604344_UP.cs",
+              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Migrations\\202410050604344_UP.cs",
+              "RelativeToolTip": "WorkManager\\Migrations\\202410050604344_UP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T06:04:38.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "202410030700566_Init.cs",
+              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Migrations\\202410030700566_Init.cs",
+              "RelativeDocumentMoniker": "WorkManager\\Migrations\\202410030700566_Init.cs",
+              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Migrations\\202410030700566_Init.cs",
+              "RelativeToolTip": "WorkManager\\Migrations\\202410030700566_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:01:01.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\GUI\\frmMain.cs",
+              "RelativeDocumentMoniker": "WorkManager\\GUI\\frmMain.cs",
+              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\GUI\\frmMain.cs [Design]",
+              "RelativeToolTip": "WorkManager\\GUI\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:11:12.103Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\GUI\\frmLogin.cs",
+              "RelativeDocumentMoniker": "WorkManager\\GUI\\frmLogin.cs",
+              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\GUI\\frmLogin.cs [Design]",
+              "RelativeToolTip": "WorkManager\\GUI\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:29:55.912Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmRequestList.cs [Design]",
+              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\GUI\\frmRequestList.cs",
+              "RelativeDocumentMoniker": "WorkManager\\GUI\\frmRequestList.cs",
+              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\GUI\\frmRequestList.cs [Design]",
+              "RelativeToolTip": "WorkManager\\GUI\\frmRequestList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T03:52:37.687Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NewRequestServices.cs",
+              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Services\\NewRequestServices.cs",
+              "RelativeDocumentMoniker": "WorkManager\\Services\\NewRequestServices.cs",
+              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Services\\NewRequestServices.cs",
+              "RelativeToolTip": "WorkManager\\Services\\NewRequestServices.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAEwB8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T03:58:42.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RequestRepository.cs",
+              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Implementation\\RequestRepository.cs",
+              "RelativeDocumentMoniker": "WorkManager\\Repository\\Implementation\\RequestRepository.cs",
+              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Implementation\\RequestRepository.cs",
+              "RelativeToolTip": "WorkManager\\Repository\\Implementation\\RequestRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA9wDIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T03:59:58.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IRequestRepository.cs",
+              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Interface\\IRequestRepository.cs",
+              "RelativeDocumentMoniker": "WorkManager\\Repository\\Interface\\IRequestRepository.cs",
+              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Interface\\IRequestRepository.cs",
+              "RelativeToolTip": "WorkManager\\Repository\\Interface\\IRequestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T03:58:31.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RequestServices.cs",
+              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Services\\RequestServices.cs",
+              "RelativeDocumentMoniker": "WorkManager\\Services\\RequestServices.cs",
+              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Services\\RequestServices.cs",
+              "RelativeToolTip": "WorkManager\\Services\\RequestServices.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAtwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:01:55.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Interface\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "WorkManager\\Repository\\Interface\\IDepartmentRepository.cs",
+              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Interface\\IDepartmentRepository.cs",
+              "RelativeToolTip": "WorkManager\\Repository\\Interface\\IDepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:52:38.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmRequestList.Designer.cs",
+              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\GUI\\frmRequestList.Designer.cs",
+              "RelativeDocumentMoniker": "WorkManager\\GUI\\frmRequestList.Designer.cs",
+              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\GUI\\frmRequestList.Designer.cs",
+              "RelativeToolTip": "WorkManager\\GUI\\frmRequestList.Designer.cs",
+              "ViewState": "AgIAAOYAAAAAAAAAAAAtwPcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T01:13:51.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "WorkManager\\Services\\UserServices.cs",
+              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Services\\UserServices.cs",
+              "RelativeToolTip": "WorkManager\\Services\\UserServices.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAEwB8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:07:04.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Implementation\\UserRepository.cs",
+              "RelativeDocumentMoniker": "WorkManager\\Repository\\Implementation\\UserRepository.cs",
+              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Implementation\\UserRepository.cs",
+              "RelativeToolTip": "WorkManager\\Repository\\Implementation\\UserRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:00:20.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserRoleRepository.cs",
+              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Implementation\\UserRoleRepository.cs",
+              "RelativeDocumentMoniker": "WorkManager\\Repository\\Implementation\\UserRoleRepository.cs",
+              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Implementation\\UserRoleRepository.cs",
+              "RelativeToolTip": "WorkManager\\Repository\\Implementation\\UserRoleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:57:10.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "WorkManager\\Repository\\Interface\\IUserRepository.cs",
+              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "WorkManager\\Repository\\Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAvwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T05:58:48.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Work_Constants.cs",
+              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Constants\\Work_Constants.cs",
+              "RelativeDocumentMoniker": "WorkManager\\Constants\\Work_Constants.cs",
+              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Constants\\Work_Constants.cs",
+              "RelativeToolTip": "WorkManager\\Constants\\Work_Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:57:53.654Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 31,
+              "Title": "IUserRoleRepository.cs",
+              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Interface\\IUserRoleRepository.cs",
+              "RelativeDocumentMoniker": "WorkManager\\Repository\\Interface\\IUserRoleRepository.cs",
+              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Interface\\IUserRoleRepository.cs",
+              "RelativeToolTip": "WorkManager\\Repository\\Interface\\IUserRoleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:56:00.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserRoleServices.cs",
+              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Services\\UserRoleServices.cs",
+              "RelativeDocumentMoniker": "WorkManager\\Services\\UserRoleServices.cs",
+              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Services\\UserRoleServices.cs",
+              "RelativeToolTip": "WorkManager\\Services\\UserRoleServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:01:56.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Implementation\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "WorkManager\\Repository\\Implementation\\DepartmentRepository.cs",
+              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Implementation\\DepartmentRepository.cs",
+              "RelativeToolTip": "WorkManager\\Repository\\Implementation\\DepartmentRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAjwBIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:53:22.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DepartmentServices.cs",
+              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Services\\DepartmentServices.cs",
+              "RelativeDocumentMoniker": "WorkManager\\Services\\DepartmentServices.cs",
+              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Services\\DepartmentServices.cs",
+              "RelativeToolTip": "WorkManager\\Services\\DepartmentServices.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAjwBYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:57:23.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "User.cs",
+              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Models\\Model\\User.cs",
+              "RelativeDocumentMoniker": "WorkManager\\Models\\Model\\User.cs",
+              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Models\\Model\\User.cs",
+              "RelativeToolTip": "WorkManager\\Models\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:46:35.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Models\\Model\\UserRole.cs",
+              "RelativeDocumentMoniker": "WorkManager\\Models\\Model\\UserRole.cs",
+              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Models\\Model\\UserRole.cs",
+              "RelativeToolTip": "WorkManager\\Models\\Model\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:46:37.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "App.config",
+              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\App.config",
+              "RelativeDocumentMoniker": "WorkManager\\App.config",
+              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\App.config",
+              "RelativeToolTip": "WorkManager\\App.config",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAD4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-03T06:55:58.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "WorkManager\\Migrations\\Configuration.cs",
+              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "WorkManager\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:00:40.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
               "Title": "Department.cs",
               "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Models\\Model\\Department.cs",
               "RelativeDocumentMoniker": "WorkManager\\Models\\Model\\Department.cs",
@@ -549,7 +681,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 40,
               "Title": "frmRequestAdd.Designer.cs",
               "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\GUI\\frmRequestAdd.Designer.cs",
               "RelativeDocumentMoniker": "WorkManager\\GUI\\frmRequestAdd.Designer.cs",
@@ -562,7 +694,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 41,
               "Title": "FactoryServices.cs",
               "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Services\\FactoryServices.cs",
               "RelativeDocumentMoniker": "WorkManager\\Services\\FactoryServices.cs",
@@ -574,19 +706,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "FactoryRepository.cs",
-              "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Implementation\\FactoryRepository.cs",
-              "RelativeDocumentMoniker": "WorkManager\\Repository\\Implementation\\FactoryRepository.cs",
-              "ToolTip": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Implementation\\FactoryRepository.cs",
-              "RelativeToolTip": "WorkManager\\Repository\\Implementation\\FactoryRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T04:54:42.044Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 42,
               "Title": "IFactoryRepository.cs",
               "DocumentMoniker": "G:\\IT-03-Code\\WorkManager\\WorkManager\\Repository\\Interface\\IFactoryRepository.cs",
               "RelativeDocumentMoniker": "WorkManager\\Repository\\Interface\\IFactoryRepository.cs",

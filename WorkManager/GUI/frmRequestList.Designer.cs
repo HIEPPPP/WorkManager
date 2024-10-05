@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmRequestList));
             this.gcRequest = new DevExpress.XtraGrid.GridControl();
             this.gvRequest = new DevExpress.XtraGrid.Views.Grid.GridView();
@@ -49,7 +48,6 @@
             this.btnUpdate = new DevExpress.XtraEditors.SimpleButton();
             this.btnDelete = new DevExpress.XtraEditors.SimpleButton();
             this.btnAdd = new DevExpress.XtraEditors.SimpleButton();
-            this.alertControl = new DevExpress.XtraBars.Alerter.AlertControl(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.gcRequest)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.gvRequest)).BeginInit();
             this.groupBox1.SuspendLayout();
@@ -90,7 +88,7 @@
             this.gvRequest.Name = "gvRequest";
             this.gvRequest.OptionsView.ShowGroupPanel = false;
             this.gvRequest.SortInfo.AddRange(new DevExpress.XtraGrid.Columns.GridColumnSortInfo[] {
-            new DevExpress.XtraGrid.Columns.GridColumnSortInfo(this.colAssignedTo, DevExpress.Data.ColumnSortOrder.Ascending)});
+            new DevExpress.XtraGrid.Columns.GridColumnSortInfo(this.colStatus, DevExpress.Data.ColumnSortOrder.Ascending)});
             this.gvRequest.CustomDrawCell += new DevExpress.XtraGrid.Views.Base.RowCellCustomDrawEventHandler(this.gvRequest_CustomDrawCell);
             this.gvRequest.FocusedRowChanged += new DevExpress.XtraGrid.Views.Base.FocusedRowChangedEventHandler(this.gvRequest_FocusedRowChanged);
             // 
@@ -145,6 +143,7 @@
             this.colStatus.Caption = "Trạng thái";
             this.colStatus.FieldName = "Status";
             this.colStatus.Name = "colStatus";
+            this.colStatus.SortMode = DevExpress.XtraGrid.ColumnSortMode.DisplayText;
             this.colStatus.Visible = true;
             this.colStatus.VisibleIndex = 6;
             // 
@@ -153,7 +152,6 @@
             this.colAssignedTo.Caption = "Người thực hiện";
             this.colAssignedTo.FieldName = "AssignedTo";
             this.colAssignedTo.Name = "colAssignedTo";
-            this.colAssignedTo.SortMode = DevExpress.XtraGrid.ColumnSortMode.DisplayText;
             this.colAssignedTo.Visible = true;
             this.colAssignedTo.VisibleIndex = 7;
             // 
@@ -299,6 +297,5 @@
         private DevExpress.XtraEditors.SimpleButton btnConfirm;
         private DevExpress.XtraEditors.SimpleButton btnSuccess;
         private DevExpress.XtraGrid.Columns.GridColumn colRequestBy;
-        private DevExpress.XtraBars.Alerter.AlertControl alertControl;
     }
 }
